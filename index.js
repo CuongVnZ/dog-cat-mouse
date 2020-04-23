@@ -6,4 +6,4 @@ var tom = new Cat();
 dog.sayHi();
 
 dog.eat(tom);
-console.log(dog);
+console.log(dog.stomach);
